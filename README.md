@@ -1,1 +1,2 @@
-# numerical_methods_with_c
+# Numerical methods with C
+This was part of my M.Sc. coursework at the University of Delhi
